@@ -2,8 +2,8 @@
 
 ## TODOs
 
-- Script to download existing emoji from Slack
-- Script to upload emoji to Slack
-- A lot of emoji
-- Instructions for adding new emoji
-- Emoji name collision detection
+- [x] Script to download existing emoji from Slack -> Use [emojme](https://jackellenberger.github.io/emojme/)
+- [x] Script to upload emoji to Slack -> Use [emojme](https://jackellenberger.github.io/emojme/)
+- [ ] A lot of emoji
+- [ ] Group / Categorize emoji packs eg. Party Parrot, Pokemon, People, etc.
+- [ ] Instructions for adding new emoji
