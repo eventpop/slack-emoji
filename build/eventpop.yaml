@@ -5,3 +5,5 @@ emojis:
   - name: githubparrot # Add emoji from raw url
     src: https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/githubparrot.gif
   # Add new emojis below
+  - name: partyparrot_ultrafast
+    src: https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif
