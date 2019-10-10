@@ -1,0 +1,7 @@
+title: Eventpop
+emojis:
+  - name: mergedparrot # Add emoji from local file
+    src: ./build/eventpop/partyparrot/mergedparrot.gif
+  - name: githubparrot # Add emoji from raw url
+    src: https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/githubparrot.gif
+  # Add new emojis below
