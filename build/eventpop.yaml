@@ -7,3 +7,5 @@ emojis:
   # Add new emojis below
   - name: partyparrot_ultrafast
     src: https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif
+  - name: add_reaction
+    src: ./build/eventpop/other/add_reaction.png
