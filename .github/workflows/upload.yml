@@ -1,0 +1,21 @@
+name: Upload
+
+on:
+  push:
+    branches:
+      - master
+      - main
+
+env:
+  SLACK_TOKEN_JSON: ${{ secrets.SLACK_TOKEN_JSON }}
+
+jobs:
+  upload:
+    name: Upload
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v1
+
+      - run: bun install
+      - run: bun .
